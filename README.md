@@ -1,16 +1,13 @@
-### Hi there 👋
+<h2 align="center">📖 About Me</h2>
+<p align="center">I own <a href="https://github.com/Mystic-Network">Mystic Network</a>. The server is in development since May 2020.</p>
 
-<!--
-**konfix/konfix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"><img src="https://cdn.konfix.eu/ss/7xp2g.png" alt="MysticMC.org Logo"></div>
 
-Here are some ideas to get you started:
+<p align="center">💻 Skript, ☕ Java, 🔒 Security, ☁️ Server Hosting, 🎨 Graphic Design, ⚙️ Server Management</p>
+  
+<p align="center">⭐ Contact me on: <b>Konfix#0827</b> ⭐</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr></hr>
+
+<h2 align="center">📌 Pinned Repositories</h2>
+<p align="center">Take a look at my most outstanding repositories.</p>

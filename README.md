@@ -5,7 +5,7 @@
 
 <p align="center">💻 Skript, ☕ Java, 🔒 Security, ☁️ Server Hosting, 🎨 Graphic Design, ⚙️ Server Management</p>
   
-<p align="center">⭐ Contact me on: <b>Konfix#3113/b> ⭐</p>
+<p align="center">⭐ You can contact me on <b>Konfix#3113</b></p>
 
 <hr></hr>
 

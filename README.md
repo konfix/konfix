@@ -1,7 +1,7 @@
 <h2 align="center">📖 About Me</h2>
 <p align="center">I own <a href="https://github.com/Mystic-Network">Mystic Network</a>. The server is in development since May 2020.</p>
 
-<div align="center"><img src="https://i.imgur.com/el5hkvQ.png" alt="MysticMC.org Logo" width="335" height="98.75"></div>
+<div align="center"><img src="https://i.imgur.com/OO6tZQf.png" alt="Mystic Logo [Watermark]" width="335" height="98.75"></div>
 
 <p align="center">💻 Skript, ☕ Java, 🔒 Security, ☁️ Server Hosting, 🎨 Graphic Design, ⚙️ Server Management</p>
   
